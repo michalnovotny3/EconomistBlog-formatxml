@@ -1,0 +1,304 @@
+{
+    "id": "/content/la1sask15cqjl06ecq9jb7c26237033m",
+    "tegID": "la1sask15cqjl06ecq9jb7c26237033m",
+    "tegType": "article",
+    "headline": "Why corporate America loves Donald Trump",
+    "subheadline": "The Trump trade",
+    "byline": "",
+    "description": "American executives are betting that the president is good for business. Not in the long run",
+    "url": {
+        "canonical": "https://stage.economist.com/leaders/2018/05/24/why-corporate-america-loves-donald-trump"
+    },
+    "channel": {
+        "id": "/content/j53t6hsedat4l7rkbb1le98u73262sh5",
+        "tegID": "j53t6hsedat4l7rkbb1le98u73262sh5",
+        "tegType": "page",
+        "headline": "About us",
+        "subheadline": "",
+        "byline": "",
+        "description": "",
+        "url": {
+            "canonical": "https://stage.economist.com/help/about-us"
+        }
+    },
+    "dateCreated": "2018-05-24T08:33:21Z",
+    "dateModified": "2018-07-25T09:22:23Z",
+    "datePublished": "2018-05-24T04:00:00Z",
+    "isAccessibleForFree": false,
+    "print": {
+        "section": {
+            "id": "/content/0eqdc3kshoq96naup34ruco7pktc6n51",
+            "tegID": "0eqdc3kshoq96naup34ruco7pktc6n51",
+            "tegType": "taxonomy",
+            "headline": "Leaders",
+            "subheadline": "",
+            "byline": "",
+            "description": "",
+            "url": {
+                "canonical": "https://stage.economist.com/leaders/"
+            }
+        }
+    },
+    "articleSection": {
+        "internal": [
+            {
+                "id": "/content/c1b8fm6psufl0h57e27eup9hb8nmv0t3",
+                "tegID": "c1b8fm6psufl0h57e27eup9hb8nmv0t3",
+                "tegType": "taxonomy",
+                "headline": "Leaders",
+                "subheadline": "",
+                "byline": "",
+                "description": "",
+                "url": {
+                    "canonical": "https://stage.economist.com/sections/leaders"
+                }
+            }
+        ]
+    },
+    "publication": [
+        {
+            "id": "/content/g8tboctaspgrdfqb9nrou09b87fm3a7d",
+            "tegID": "g8tboctaspgrdfqb9nrou09b87fm3a7d",
+            "tegType": "issue",
+            "headline": "Why corporate America loves Donald Trump",
+            "subheadline": "",
+            "byline": "",
+            "description": "",
+            "url": {
+                "canonical": "https://stage.economist.com/printedition/2018-05-26"
+            },
+            "image": {
+                "main": null
+            }
+        }
+    ],
+    "image": {
+        "main": {
+            "id": "/content/lug9kr3e57pn3bua046pgn6608qs2lgm",
+            "tegID": "lug9kr3e57pn3bua046pgn6608qs2lgm",
+            "tegType": "image",
+            "headline": "",
+            "subheadline": "",
+            "byline": "",
+            "description": "",
+            "url": {
+                "canonical": "https://stage.economist.com/sites/default/files/images/print-edition/20180526_LDD001_0.jpg"
+            }
+        },
+        "inline": null,
+        "cover": null
+    },
+    "text": [
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "MOST American elites believe that the Trump presidency is hurting their country. Foreign-policy mandarins are terrified that security alliances are being wrecked. Fiscal experts warn that borrowing is spiralling out of control. Scientists deplore the rejection of climate change. And some legal experts warn of a looming constitutional crisis.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "Amid the tumult there is a striking exception. The people who run companies have made their calculations about the Age of Trump. On balance, they like it. Bosses reckon that the value of tax cuts, deregulation and potential trade concessions from China outweighs the hazy costs of weaker institutions and trade wars. And they are willing to play along with President Donald Trump’s home-brewed economic vision, in which firms are freed from the state and unfair foreign competition, and profits, investment and, eventually, wages soar.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "figure",
+            "attribs": {
+                "role": "presentation",
+                "itemtype": "https://schema.org/WPAdBlock"
+            },
+            "children": []
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "The financial fireworks on display in the first quarter of this year suggest that this vision is coming true. The earnings of listed firms rose by 22% compared with a year earlier; investment was up by 19%. But as our briefing explains, the investment surge is unlike any before—it is skewed towards tech giants, not firms with factories. When it comes to gauging the full costs of Mr Trump, America Inc is being short-sighted and sloppy.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "type": "tag",
+                    "name": "strong",
+                    "attribs": {},
+                    "children": [
+                        {
+                            "data": "The view from the C-suite",
+                            "type": "text"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "Since winning Congress and the White House, the Republicans have sought to unleash the power of business. After the election Mr Trump held summits with tycoons, televised live from the boardroom at Trump Tower, and later from his new HQ in the Oval Office. Though bosses have tired of this kind of pantomime, particularly after Mr Trump’s equivocations over white-supremacist protests in Virginia last summer, they remain bullish. A reason is the Republican corporate-tax reform passed in December, the first on such a scale since 1986. It does several sensible things, including cutting headline rates to average European levels. The annual saving of $100bn is worth 6% of pre-tax profits (it accounts for a tenth of the fiscal deficit).",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "Deregulation is in full swing. This week saw a relaxation of banking rules (see ",
+                    "type": "text"
+                },
+                {
+                    "type": "tag",
+                    "name": "a",
+                    "attribs": {
+                        "href": "https://www.economist.com/news/finance-and-economics/21743112-americas-dodd-frank-act-gets-tweak-not-rewrite-rare-bipartisan-moment-allows"
+                    },
+                    "children": [
+                        {
+                            "data": "article",
+                            "type": "text"
+                        }
+                    ]
+                },
+                {
+                    "data": "). The leaders of many agencies have been replaced with Trump appointees. The change at the top, firms say, means officials are being more helpful. A surprising number of boardrooms support a muscular stance on trade with China. If, for argument’s sake, China capitulated to American demands and imported $200bn more goods a year, it could boost the earnings of America Inc by a further 2%. The benefits for business of Mr Trump are clear, then: less tax and red tape, potential trade gains and a 6-8% uplift in earnings.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "The trouble is that companies are often poor at assessing nebulous risks, and CEOs’ overall view of the environment is fallible. During the Obama years corporate America was convinced it was under siege when in fact, judged by the numbers, it was in a golden era, with average profits 31% above long-term levels. Now bosses think they have entered a nirvana, when the reality is that the country’s system of commerce is lurching away from rules, openness and multilateral treaties towards arbitrariness, insularity and transient deals.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "As the contours of this new world become clearer, so will its costs to business in terms of complexity and predictability. Take complexity first. One of the ironies of the Trump team’s agenda is that, although they want to get out of businesses’ hair at home, when it comes to trade they want to regulate. When they tinker with tariffs, large numbers of firms have to scurry to respond because they have global supply chains. The steel duties proposed in March cover a mere 0.5% of American imports, but so far this month 200-odd listed American firms have discussed the financial impact of tariffs on their calls with investors. Over time, a mesh of distortions will build up.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "Because trade is becoming more regulated, a new surveillance bureaucracy is sprouting. On May 23rd the Department of Commerce launched a probe of car imports. A bill in Congress envisages vetting all foreign investment into America to ensure that it does not jeopardise the country’s “technological and industrial leadership in areas related to national security”. American firms have $8trn of capital sunk abroad; foreign firms have $7trn in America; and there have been 15,000 inbound deals since 2008. The cost involved in monitoring all this activity could ultimately be vast. As America eschews global co-operation, its firms will also face more duplicative regulation abroad. Europe has already introduced new regimes this year for financial instruments and data.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "The expense of re-regulating trade could even exceed the benefits of deregulation at home. That might be tolerable, were it not for the other big cost of the Trump era: unpredictability. At home the corporate-tax cuts will partly expire after 2022. America’s negotiators are gunning for a five-year sunset clause in a new NAFTA deal, although Canada and Mexico would prefer something permanent. Bosses hope that the belligerence on trade is a ploy borrowed from “The Apprentice”, and that stable agreements will emerge. But imagine that America stitches up a deal with China and the bilateral trade deficit then fails to shrink, or Chinese firms cease buying American high-tech components as they become self-sufficient (see ",
+                    "type": "text"
+                },
+                {
+                    "type": "tag",
+                    "name": "a",
+                    "attribs": {
+                        "href": "https://www.economist.com/news/china/21743127-chinese-officials-still-have-plenty-reasons-worry-threatened-trade-war-between-china-and"
+                    },
+                    "children": [
+                        {
+                            "data": "article",
+                            "type": "text"
+                        }
+                    ]
+                },
+                {
+                    "data": "), or Mr Trump is mocked for getting a bad deal. If so, the White House might rip the agreement up.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "type": "tag",
+                    "name": "strong",
+                    "attribs": {},
+                    "children": [
+                        {
+                            "data": "The new laws of the jungle",
+                            "type": "text"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "Another reason for the growing unpredictability is Mr Trump’s urge to show off his power with acts of pure political discretion. He has just asked the postal service to raise delivery prices for Amazon, his bête noire and the world’s second-most valuable listed firm. He could easily strike out in anger at other Silicon Valley firms—after all, they increasingly control the flow of political information. He wants the fate of ZTE, a Chinese telecoms firm banned in America for sanctions violations, to turn on his personal whim. Inevitably, other countries are playing rougher, too. China’s antitrust police are blocking Qualcomm’s $52bn takeover of NXP, a rival semiconductor firm, as a bargaining chip. When policy becomes a rolling negotiation, lobbying explodes. The less predictable business environment that results will raise the cost of capital.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "As America’s expansion gets longer in the tooth, these arbitrary interventions could intensify. Mr Trump expects wages to rise, but 85% of firms in the S&amp;P 500 are forecast to expand margins by 2019, reflecting a control of costs. Either shareholders, or workers and Mr Trump, are going to be disappointed. Given that interest rates are rising, a recession is likely in the next few years. In a downturn, American business may find that its fabled flexibility has been compromised because the politics of firing workers and slashing costs has become toxic.",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "tag",
+            "name": "p",
+            "attribs": {},
+            "children": [
+                {
+                    "data": "Republicans are right that tax cuts and wise deregulation can boost firms’ competitiveness. But little progress is being made on other priorities, including repairing infrastructure, ensuring small firms are not squashed by monopolies and reforming the education system. Most firms pride themselves on being level-headed, but at some point that bleeds into complacency. American business may one day conclude that this was the moment when it booked all the benefits of the Trump era, while failing to account properly for the costs. A strategy that assumes revenues but not expenses rarely makes sense.",
+                    "type": "text"
+                }
+            ]
+        }
+    ]
+}
